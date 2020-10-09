@@ -39,7 +39,7 @@ printf("\n Define the atomic number of the projectile : ");
 scanf("%lf", &Z_p);
 printf("\n Define the mass number of the projectile : ");
 scanf("%lf", &A_p);
-printf("\n Define the total charge of the projectile (number of electrons) : ");
+printf("\n Define the total charge of the projectile : ");
 scanf("%lf", &charge);
 printf("\n Define the density of the target (in g/cm^3) : ");
 scanf("%lf", &density);
